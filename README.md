@@ -62,11 +62,14 @@ SaaS performs well in APAC but poorly in North America → Need for regional str
 
 
 How to Run the Project
+
 1️. Clone the repository
+
 git clone https://github.com/your-username/SkyGeni.git
 cd SkyGeni
 
 2. Install dependencies
+
 pip install -r requirements.txt
 pandas
 numpy
